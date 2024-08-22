@@ -33,6 +33,7 @@ Currently at Ericsson, and I am open to exploring new opportunities.
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jshobhit11&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight)
+![jshobhit11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jshobhit11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Let's Connect!
 

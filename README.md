@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shobhit Jain 👋
 
-<!--
-**jshobhit11/jshobhit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Passionate Full Stack Web Developer and problem solver.  
+You can find me watching cricket, movies, and working out at the gym in my spare time.  
+Currently at Ericsson, and I am open to exploring new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages:**
+- C++
+
+**Full-Stack Web Development:**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+- HTML5
+- CSS3
+- Bootstrap CSS
+- JavaScript
+
+**Softwares and Tools:**
+- Git
+- GitHub
+- MongoDB Compass
+- MongoDB Atlas
+- Postman
+- Visual Studio Code
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jshobhit11&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight)
+
+## Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/shobhit-jain-a33593136/)  
+[Email](mailto:jshobhit3020@gmail.com)

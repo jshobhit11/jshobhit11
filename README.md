@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Full Stack Web Developer and avid problem solver. When I’m not coding, you might find me cheering for my favorite cricket team, enjoying a good movie, or hitting the gym. Currently, I'm with Ericsson, but I’m always excited to explore new opportunities.
+I'm a passionate Full Stack Web Developer and avid problem solver. When I’m not coding, you might find me cheering for my favorite cricket team, enjoying a good movie, or hitting the gym. Currently, I'm with Infinite compter solutons limited, but I’m always excited to explore new opportunities.
 
 ## Skills
 
